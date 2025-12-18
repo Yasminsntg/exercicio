@@ -1,0 +1,35 @@
+h1{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+    
+}
+nav{
+    text-align: center;
+    margin-left: 10px;
+    
+
+}
+body{
+    background-color: rgb(253, 235, 238);
+}
+
+#Vestido {
+    width:500x;
+     height: 400px;
+   
+}
+#legenda{
+    font-size: 25px;
+    margin-top: 5px;
+}
+a{
+    color: black;
+    font-size: 30px;
+}
+#moda{
+  font-size:25px;
+  margin-left:5px;
+  
+}
